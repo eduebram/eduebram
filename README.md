@@ -15,7 +15,7 @@ Independent researcher working across audit competitions, private engagements, a
 - Bounties paid by top-tier L1s, L2s, liquid staking and restaking protocols, lending markets, oracle networks, AMMs, bridges, and DeFi infra
 - Active across EVM, Move, Cadence, and Cosmos-SDK ecosystems
 
-## Recent Bug Bounty Disclosures *(since September 2025)*
+## Recent Bug Bounty Disclosures *(since November 2026)*
 
 **3× Critical · 3× High · 10× Medium · 7× Low** — 23 disclosures across 18 protocols and 5 platforms.
 
