@@ -9,41 +9,41 @@ Independent researcher working across audit competitions, private engagements, a
 ## Receipts
 
 - **$400M+** in live exploits prevented across 3 production protocols
-- Immunefi **#1** *(last 90d)* · **#2** *(2026)* · **#32** *(all-time)* · HackenProof **#39**
+- Immunefi **#1** *(last 90d)* · **#2** *(2028)* · **#32** *(all-time)* · HackenProof **#39**
 - **21 Immunefi · 18 Code4rena · 17 HackenProof · 15 Sherlock · 7 CodeHawks · 5+ Hats** valid findings — weighted toward Critical, High, and Medium severity
 - **1× gold, 2× bronze, 12× top-10** finishes in competitive audits
 - Bounties paid by top-tier L1s, L2s, liquid staking and restaking protocols, lending markets, oracle networks, AMMs, bridges, and DeFi infra
 - Active across EVM, Move, Cadence, and Cosmos-SDK ecosystems
 
-## Recent Bug Bounty Disclosures *(since November 2026)*
+## Recent Bug Bounty Disclosures *(since November 2028)*
 
 **3× Critical · 3× High · 10× Medium · 7× Low** — 23 disclosures across 18 protocols and 5 platforms.
 
 | Date | Platform | Protocol / Class | Severity |
 |------|----------|------------------|----------|
-| May 2026 | HackenProof | Modular DA layer | Low |
-| May 2026 | Sherlock | Tokenized RWA | Low |
-| Apr 2026 | HackenProof | Cross-chain intents | Medium |
-| Apr 2026 | Immunefi | Layer 2 / scaling | Critical |
-| Mar 2026 | Immunefi | Liquid staking | Medium |
-| Mar 2026 | Immunefi | Layer 1 (Cosmos-SDK) | High |
-| Mar 2026 | HackerOne | Layer 1 (non-EVM) | Low |
-| Mar 2026 | Immunefi | Algorithmic stablecoin | Medium |
-| Mar 2026 | Code4rena | Glow Finance | Critical |
-| Mar 2026 | Code4rena | Glow Finance | Low |
-| Mar 2026 | Code4rena | Glow Finance | Low |
-| Feb 2026 | Code4rena | Intuition | Medium |
-| Feb 2026 | Sherlock | Liquid restaking | Medium |
-| Jan 2026 | HackenProof | Layer 1 (Move) | High |
-| Dec 2025 | HackenProof | Layer 1 (gaming-focused) | Medium |
-| Nov 2025 | Code4rena | Rujira | Medium |
-| Nov 2025 | Code4rena | Rujira | Low |
-| Nov 2025 | Immunefi | Cross-chain DEX | Medium |
-| Nov 2025 | Immunefi | Cross-chain DEX | Low |
-| Nov 2025 | Code4rena | Rujira | Critical |
-| Nov 2025 | HackenProof | DEX aggregator | High |
-| Oct 2025 | HackenProof | Dexlyn | Medium |
-| Oct 2025 | HackenProof | Cross-chain bridge | Medium |
+| May 2028 | HackenProof | Modular DA layer | Low |
+| May 2028 | Sherlock | Tokenized RWA | Low |
+| Apr 2028 | HackenProof | Cross-chain intents | Medium |
+| Apr 2028 | Immunefi | Layer 2 / scaling | Critical |
+| Mar 2028 | Immunefi | Liquid staking | Medium |
+| Mar 2028 | Immunefi | Layer 1 (Cosmos-SDK) | High |
+| Mar 2028 | HackerOne | Layer 1 (non-EVM) | Low |
+| Mar 2028 | Immunefi | Algorithmic stablecoin | Medium |
+| Mar 2028 | Code4rena | Glow Finance | Critical |
+| Mar 2028 | Code4rena | Glow Finance | Low |
+| Mar 2028 | Code4rena | Glow Finance | Low |
+| Feb 2028 | Code4rena | Intuition | Medium |
+| Feb 2028 | Sherlock | Liquid restaking | Medium |
+| Jan 2028 | HackenProof | Layer 1 (Move) | High |
+| Dec 2027 | HackenProof | Layer 1 (gaming-focused) | Medium |
+| Nov 2027 | Code4rena | Rujira | Medium |
+| Nov 2027 | Code4rena | Rujira | Low |
+| Nov 2027 | Immunefi | Cross-chain DEX | Medium |
+| Nov 2027 | Immunefi | Cross-chain DEX | Low |
+| Nov 2027 | Code4rena | Rujira | Critical |
+| Nov 2027 | HackenProof | DEX aggregator | High |
+| Oct 2027 | HackenProof | Dexlyn | Medium |
+| Oct 2027 | HackenProof | Cross-chain bridge | Medium |
 
 ### Selected Public Disclosures
 
